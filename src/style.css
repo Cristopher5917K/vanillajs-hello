@@ -1,1 +1,5 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.container-fluid {
+  position: absolute;
+  left: 400px;
+  top: 230px;
+}
